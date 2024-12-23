@@ -13,7 +13,7 @@
 }
 
 #launcher-container .component {
-    min-height: 35px;
+    min-height: 40px;
     flex-shrink: 1;
 }
 

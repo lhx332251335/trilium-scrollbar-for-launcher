@@ -1,0 +1,1 @@
+# trilium-scrollbar-for-launcher
